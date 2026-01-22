@@ -8,13 +8,13 @@ This script addresses a specific use case: you have an InDesign document with pr
 
 ### Option 1: Download and Drag (Recommended for most users)
 
-1. **Download the script**: Click [`spa-styles.jsx`](spa-styles.jsx) above, then click the download icon (↓) in the top-right of the file view
+1. **Download the script**: Click [`spa-styles.jsx`](spa-styles.jsx) above, then click the "download raw file" icon (↓) in the top-right of the file view
 2. **Open InDesign**
 3. **Open the Scripts panel**: Window → Utilities → Scripts
 4. **Reveal the User folder**: Right-click "User" in the Scripts panel and choose "Reveal in Finder"
 5. **Install**: Drag the downloaded `spa-styles.jsx` into the User folder
 
-### Option 2: Terminal (for InDesign 2025)
+### Option 2: macOS Terminal (for InDesign 2025)
 
 Open Terminal and paste:
 
@@ -70,7 +70,7 @@ if (app.documents.length === 0) {
 EOF
 ```
 
-### Option 3: Terminal (for all installed InDesign versions)
+### Option 3: macOS Terminal (for all installed InDesign versions)
 
 This installs the script for every InDesign version on your system:
 
