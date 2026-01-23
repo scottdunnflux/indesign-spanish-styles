@@ -8,7 +8,7 @@ This script addresses a specific use case: you have an InDesign document with pr
 
 ### Option 1: Download and Drag (Recommended for most users)
 
-1. **Download the script**: Click [`spa-styles.jsx`](spa-styles.jsx) above, then click the "download raw file" icon (↓) in the top-right of the file view
+1. **Download the script**: Right-click [`spa-styles.jsx RAW`](https://github.com/scottdunnflux/indesign-spanish-styles/raw/refs/heads/main/spa-styles.jsx) and choose "Save Link As" (or Option-click on macOS).
 2. **Open InDesign**
 3. **Open the Scripts panel**: Window → Utilities → Scripts
 4. **Reveal the User folder**: Right-click "User" in the Scripts panel and choose "Reveal in Finder"
