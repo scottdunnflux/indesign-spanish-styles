@@ -41,6 +41,16 @@ done
 3. Expand "User" and double-click `styles-to-spa.jsx`
 4. A dialog will confirm how many styles were changed
 
+## Creating an English Version (Advanced)
+
+To create a version that changes styles to English instead:
+
+1. Duplicate `styles-to-spa.jsx` and rename it to `styles-to-eng.jsx`
+2. Open the new file in a text editor
+3. Comment out line 15: `//var targetLanguage = "Spanish";`
+4. Uncomment line 16: `var targetLanguage = "English: USA";`
+5. Save and use as normal
+
 ## License
 
 MIT
