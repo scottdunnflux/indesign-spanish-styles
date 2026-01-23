@@ -16,7 +16,7 @@ This is an Adobe InDesign ExtendScript (.jsx) that batch-changes the applied lan
 
 Execute directly from InDesign:
 - Window > Utilities > Scripts panel
-- Double-click `spa-styles.jsx`
+- Double-click `styles-to-spa.jsx`
 
 Or via File > Scripts > Run Script and navigate to the file.
 
