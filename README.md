@@ -16,7 +16,12 @@ This script addresses a specific use case: you have an InDesign document with pr
 
 ### Option 2: macOS Terminal (for InDesign 2025)
 
+
 Open Terminal and paste:
+
+```bash
+curl https://raw.githubusercontent.com/scottdunnflux/indesign-spanish-styles/refs/heads/main/spa-styles.jsx > "$HOME/Library/Preferences/Adobe InDesign/Version 20.0/en_US/Scripts/Scripts Panel/spa-styles.jsx"
+```
 
 ```bash
 cat << 'EOF' > "$HOME/Library/Preferences/Adobe InDesign/Version 20.0/en_US/Scripts/Scripts Panel/spa-styles.jsx"
